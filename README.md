@@ -18,4 +18,4 @@ MongoDB hesaplı bir tıklama oyunu (C# WinForms):
 
 ---
 
-Çağan Turgut · [caganturgut.com](https://caganturgut.com) · [GitHub](https://github.com/CaYatur)
+Çağan Turgut · [GitHub](https://github.com/CaYatur)
